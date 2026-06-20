@@ -1,0 +1,5 @@
+.env
+venv/
+__pycache__/
+ornek.pdf
+.DS_Store
